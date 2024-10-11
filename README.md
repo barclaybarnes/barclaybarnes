@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Checkers Engine in Rust**
 
-- 🌱 I’m currently learning **Node.js and React.js**
+- 🌱 I’m currently learning **Rust, Node.js, and React.js**
 
 - 💬 Ask me about **C#, Python, and Rust**
 
