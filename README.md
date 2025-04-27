@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barclay Barnes</h1>
 <h3 align="center">Computer Science at Kennesaw State University</h3>
 
-- 🔭 I’m currently working on **a Checkers Engine in Rust**
+- 🔭 I’m currently working on **IT Solutions at Montra (Commits are Private)**
 
 - 🌱 I’m currently learning **Rust, Node.js, and React.js**
 
