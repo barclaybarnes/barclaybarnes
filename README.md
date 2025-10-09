@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Barclay Barnes</h1>
-<h3 align="center">Computer Science at Kennesaw State University</h3>
+<h3 align="center">Computer Science @ Kennesaw State University</h3>
 
-- 🔭 I’m currently working on **IT Solutions at Montra (Commits are Private)**
+- 🔭 I’m currently working on **Research at Kennesaw State University**
 
-- 🌱 I’m currently learning **Rust, Node.js, and React.js**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **C#, Python, and Rust**
 
