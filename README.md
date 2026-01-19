@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Research at Kennesaw State University**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Scikit-learn**
 
 - 💬 Ask me about **C#, Python, and Rust**
 
